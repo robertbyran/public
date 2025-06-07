@@ -1,0 +1,59 @@
+{
+  "lastUpdated": "2024-12-19T10:00:00Z",
+  "carouselData": [
+    {
+      "id": 1,
+      "image": "http://api.csmuseum.cn/UploadImg/1638427311174932218_6c1cc434-2343-4b57-89e9-1123651b591e.JPG",
+      "title": "古代文明展览",
+      "description": "探索古代文明的辉煌历史",
+      "startDate": "2024-01-15",
+      "endDate": "2024-06-30",
+      "status": "ongoing"
+    },
+    {
+      "id": 2,
+      "image": "http://api.csmuseum.cn/UploadImg/1638315232511630798_f2041d74-32a5-42bd-b58b-6460c70c6253.jpg",
+      "title": "现代艺术精品展",
+      "description": "汇聚国内外现代艺术精品",
+      "startDate": "2024-02-01",
+      "endDate": "2024-07-15",
+      "status": "ongoing"
+    },
+    {
+      "id": 3,
+      "image": "http://api.csmuseum.cn/UploadImg/1637979723156321744_f601db9d-2a90-4590-a72e-d3436cb59d72.jpg",
+      "title": "历史文物珍品展",
+      "description": "珍贵历史文物的完美呈现",
+      "startDate": "2024-03-01",
+      "endDate": "2024-08-30",
+      "status": "ongoing"
+    },
+    {
+      "id": 4,
+      "image": "http://api.csmuseum.cn/UploadImg/1638094549930536371_5099b453-1c7b-4629-9d23-71c714d2d18d.jpg",
+      "title": "传统工艺展览",
+      "description": "传承千年的传统手工艺术",
+      "startDate": "2024-04-01",
+      "endDate": "2024-09-30",
+      "status": "ongoing"
+    },
+    {
+      "id": 5,
+      "image": "http://api.csmuseum.cn/UploadImg/1638296155992850019_0e6cb87b-01e5-4810-9ab1-dc70dd8e4299.jpg",
+      "title": "科技文明展示",
+      "description": "科技发展历程的完整展示",
+      "startDate": "2024-05-01",
+      "endDate": "2024-10-31",
+      "status": "ongoing"
+    },
+    {
+      "id": 6,
+      "image": "http://api.csmuseum.cn/UploadImg/1638162064356462302_7e578a62-3081-4455-a84b-9a721f81f440.jpg",
+      "title": "文化交流特展",
+      "description": "不同文化间的交流与融合",
+      "startDate": "2024-06-01",
+      "endDate": "2024-11-30",
+      "status": "ongoing"
+    }
+  ]
+} 
